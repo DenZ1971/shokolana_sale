@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Editor and temporary files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Original photographs; the website uses optimized WebP versions
+assets/img/APC_0453.jpg
+assets/img/APC_0637.jpg
+assets/img/APC_2037.jpg
+assets/img/APC_2211.jpg
+assets/img/product-galery/*.jpg
+
+# Original videos; the website uses the *_optimized.mp4 versions
+assets/img/video/IMG_8315.mp4
+assets/img/video/film_1.mp4
+assets/img/video/shokokomby_fixed.mp4
+assets/img/video/video_1_3a62e54fa43e4d8f8082308fc0580f38.MP4
